@@ -1,1 +1,3 @@
 this is text committed in master branch directly.
+
+this is text added in rajnidev branch.
