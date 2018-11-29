@@ -1,6 +1,3 @@
 this is text committed in master branch directly.
+
 this is text added in rajnidev branch.
-this is text committed in rajnitest branch directly without pulling latest code of (master+rajnidev)
-this is new text.
-
-
